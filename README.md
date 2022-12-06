@@ -9,7 +9,7 @@ To analyze temperature data from hawaii to evaluate the feasibility of a ice cre
 ## Results
 June temperature data: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![june_temp_stats.png](images/june_temp_stats.png)
 
-December temperature data: ![dec_temp_stats.png](images/dec_temp_stats.png)
+December temperature data: &nbsp; ![dec_temp_stats.png](images/dec_temp_stats.png)
 
 - December is only slightly colder than June on average 
     - 71 vs 74 degrees
